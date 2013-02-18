@@ -1,15 +1,10 @@
 'use strict';
-//To check git changes
-//Changed the file
-// diff id
-// conflict
+//Remove all comments
 
 //anuradha 
 
 var innoCricket = angular.module('innoCricket', []);
-//my ofc desktop
-// anuradha
-//Routing starts here
+
   innoCricket.config(function($routeProvider){
     $routeProvider
     .when('/',{templateUrl:'views/update.html', controller:'HomeController'})
@@ -19,3 +14,4 @@ var innoCricket = angular.module('innoCricket', []);
     .when('/player/:playerId', {templateUrl:'views/player-Info.html', controller:'PlayerDetailsController'})
 
   });
+// added new comment
