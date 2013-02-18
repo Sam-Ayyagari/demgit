@@ -1,6 +1,7 @@
 'use strict';
 //Remove all comments
 
+// sameer's update
 var innoCricket = angular.module('innoCricket', []);
 
   innoCricket.config(function($routeProvider){
