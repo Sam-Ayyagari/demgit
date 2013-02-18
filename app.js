@@ -1,7 +1,7 @@
 'use strict';
 //Remove all comments
 
-//anuradha 
+//anuradha update
 
 var innoCricket = angular.module('innoCricket', []);
 
