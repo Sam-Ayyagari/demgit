@@ -2,6 +2,8 @@
 //Remove all comments
 
 // sameer's update
+//anuradha update
+
 var innoCricket = angular.module('innoCricket', []);
 
   innoCricket.config(function($routeProvider){
