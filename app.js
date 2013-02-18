@@ -3,6 +3,7 @@
 //Changed the file
 // diff id
 // conflict
+// revert after commit
 
 var innoCricket = angular.module('innoCricket', []);
 //my ofc desktop
