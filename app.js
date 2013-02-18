@@ -18,3 +18,4 @@ var innoCricket = angular.module('innoCricket', []);
     .when('/player/:playerId', {templateUrl:'views/player-Info.html', controller:'PlayerDetailsController'})
 
   });
+//all conflicts
