@@ -1,5 +1,6 @@
 'use strict';
 //To check git changes
+//Changed the file
 
 var innoCricket = angular.module('innoCricket', []);
 
