@@ -2,7 +2,7 @@
 //Remove all comments
 
 // sameer's update
-//anuradha update
+//updation new
 
 var innoCricket = angular.module('innoCricket', []);
 
