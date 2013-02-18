@@ -5,7 +5,7 @@
 
 var innoCricket = angular.module('innoCricket', []);
 //my ofc desktop
-
+// anuradha
 //Routing starts here
   innoCricket.config(function($routeProvider){
     $routeProvider
