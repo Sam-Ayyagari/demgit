@@ -2,6 +2,7 @@
 //To check git changes
 //Changed the file
 // diff id
+// conflict
 
 var innoCricket = angular.module('innoCricket', []);
 //my ofc desktop
