@@ -6,7 +6,7 @@
 //nes
 // another my change
 //stash
-
+//merge conflict
 var innoCricket = angular.module('innoCricket', []);
 
   innoCricket.config(function($routeProvider){
