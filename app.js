@@ -5,7 +5,7 @@
 //updation new
 //nes
 // another my change
-
+// anuradha's conflict
 var innoCricket = angular.module('innoCricket', []);
 
   innoCricket.config(function($routeProvider){
